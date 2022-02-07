@@ -7,3 +7,8 @@ Madlibs is a simple children’s game one can play on a text-based console where
 
 
 *Java version used - 17
+
+# Preview
+
+![madlib-test-run](https://user-images.githubusercontent.com/18338191/152768655-81d94fb6-c7b7-4d4b-b3d0-0bf370217fed.png)
+
