@@ -1,0 +1,3 @@
+Once upon a time there was a {1,adjective} {2,noun} who liked to {3,verb}. The {2, } was
+counting his {4,plural noun} one morning when he {5,adverb} {6, verb past tense} his {7,body
+part} until it was {8,adjective}. The end.
